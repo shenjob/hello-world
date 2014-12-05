@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-experiment
+this is an experiment only.
